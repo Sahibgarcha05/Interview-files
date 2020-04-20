@@ -1,0 +1,36 @@
+D:\schoolapp\schoolapp\bin\Debug\Login.mdf
+D:\schoolapp\schoolapp\bin\Debug\Login_log.ldf
+D:\schoolapp\schoolapp\bin\Debug\schoolapp.exe.config
+D:\schoolapp\schoolapp\bin\Debug\schoolapp.exe
+D:\schoolapp\schoolapp\bin\Debug\schoolapp.pdb
+D:\schoolapp\schoolapp\obj\Debug\schoolapp.csprojAssemblyReference.cache
+D:\schoolapp\schoolapp\obj\Debug\schoolapp.Form1.resources
+D:\schoolapp\schoolapp\obj\Debug\schoolapp.Properties.Resources.resources
+D:\schoolapp\schoolapp\obj\Debug\schoolapp.csproj.GenerateResource.cache
+D:\schoolapp\schoolapp\obj\Debug\schoolapp.csproj.CoreCompileInputs.cache
+D:\schoolapp\schoolapp\obj\Debug\schoolapp.exe
+D:\schoolapp\schoolapp\obj\Debug\schoolapp.pdb
+D:\schoolapp\schoolapp\obj\Debug\schoolapp.Addmission.resources
+D:\schoolapp\schoolapp\obj\Debug\schoolapp.MainPage.resources
+D:\schoolapp\schoolapp\obj\Debug\schoolapp.studentAddmission.resources
+D:\schoolapp\schoolapp\bin\Debug\student.mdf
+D:\schoolapp\schoolapp\bin\Debug\student_log.ldf
+D:\schoolapp\schoolapp\obj\Debug\schoolapp.Search.resources
+F:\Interview FIles\Projects\schoolapp (2)\schoolapp\schoolapp\bin\Debug\Login.mdf
+F:\Interview FIles\Projects\schoolapp (2)\schoolapp\schoolapp\bin\Debug\Login_log.ldf
+F:\Interview FIles\Projects\schoolapp (2)\schoolapp\schoolapp\bin\Debug\student.mdf
+F:\Interview FIles\Projects\schoolapp (2)\schoolapp\schoolapp\bin\Debug\student_log.ldf
+F:\Interview FIles\Projects\schoolapp (2)\schoolapp\schoolapp\bin\Debug\schoolapp.exe.config
+F:\Interview FIles\Projects\schoolapp (2)\schoolapp\schoolapp\bin\Debug\schoolapp.exe
+F:\Interview FIles\Projects\schoolapp (2)\schoolapp\schoolapp\bin\Debug\schoolapp.pdb
+F:\Interview FIles\Projects\schoolapp (2)\schoolapp\schoolapp\obj\Debug\schoolapp.csprojAssemblyReference.cache
+F:\Interview FIles\Projects\schoolapp (2)\schoolapp\schoolapp\obj\Debug\schoolapp.Addmission.resources
+F:\Interview FIles\Projects\schoolapp (2)\schoolapp\schoolapp\obj\Debug\schoolapp.Form1.resources
+F:\Interview FIles\Projects\schoolapp (2)\schoolapp\schoolapp\obj\Debug\schoolapp.MainPage.resources
+F:\Interview FIles\Projects\schoolapp (2)\schoolapp\schoolapp\obj\Debug\schoolapp.Properties.Resources.resources
+F:\Interview FIles\Projects\schoolapp (2)\schoolapp\schoolapp\obj\Debug\schoolapp.Search.resources
+F:\Interview FIles\Projects\schoolapp (2)\schoolapp\schoolapp\obj\Debug\schoolapp.studentAddmission.resources
+F:\Interview FIles\Projects\schoolapp (2)\schoolapp\schoolapp\obj\Debug\schoolapp.csproj.GenerateResource.cache
+F:\Interview FIles\Projects\schoolapp (2)\schoolapp\schoolapp\obj\Debug\schoolapp.csproj.CoreCompileInputs.cache
+F:\Interview FIles\Projects\schoolapp (2)\schoolapp\schoolapp\obj\Debug\schoolapp.exe
+F:\Interview FIles\Projects\schoolapp (2)\schoolapp\schoolapp\obj\Debug\schoolapp.pdb
